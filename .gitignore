@@ -1,0 +1,14 @@
+# Ambientes Virtuais Python
+venv/
+env/
+.env
+
+# Arquivos de Cache e Temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos do macOS ou Windows (boa prática)
+.DS_Store
+Thumbs.db

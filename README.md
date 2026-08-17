@@ -92,6 +92,4 @@ A aplicação foi implantada na Oracle Cloud Infrastructure (OCI) e está rodand
 
 **Link público de acesso:** http://163.176.178.81:8501/
 
-*(Suba o arquivo da imagem para o GitHub e coloque ela aqui. Exemplo:)*
-![Print do App rodando na OCI](<img width="877" height="356" alt="image" src="https://github.com/user-attachments/assets/05b7ab72-7253-42cd-b908-45183b111c9d" />
-)
+![Print do App rodando na OCI]<img width="833" height="630" alt="image" src="https://github.com/user-attachments/assets/6b6587d6-150b-4d77-b852-891e43e1f4c7" />

@@ -83,3 +83,15 @@ Para testar estes exemplos na aplicação, faça o upload do arquivo `Política 
 
 * **Pergunta do Usuário:** Como funciona o plano de saúde?
 * **Resposta do Agente:** Não encontrei essa informação no documento.
+
+
+
+## Evidência do Deploy na OCI
+
+A aplicação foi implantada na Oracle Cloud Infrastructure (OCI) e está rodando em uma instância virtual.
+
+**Link público de acesso:** http://163.176.178.81:8501/
+
+*(Suba o arquivo da imagem para o GitHub e coloque ela aqui. Exemplo:)*
+![Print do App rodando na OCI](<img width="877" height="356" alt="image" src="https://github.com/user-attachments/assets/05b7ab72-7253-42cd-b908-45183b111c9d" />
+)

@@ -19,7 +19,7 @@ except ModuleNotFoundError:
     from langchain_classic.chains import RetrievalQA
 
 st.set_page_config(page_title="RAG Local", page_icon="🔐")
-st.title("Demo RAG 100% Local 🔐")
+st.title("RAG 100% Local 🔐")
 st.write("Nenhum dado sai da sua máquina.")
 
 # 1. Upload do Arquivo
@@ -54,7 +54,7 @@ if uploaded_file:
     
     if question:
         with st.spinner("Buscando no texto e gerando resposta..."):
-            llm = Ollama(model="qwen2.5:3b") # Ou o modelo que você escolheu
+            llm = Ollama(model="qwen2.5:0.5b") # Ou o modelo que você escolheu
             
             # 1. Aqui criamos a regra de ferro (System Prompt)
             template_regras = """Você é um assistente focado em análise de documentos.

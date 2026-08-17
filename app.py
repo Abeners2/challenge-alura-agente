@@ -22,7 +22,7 @@ st.set_page_config(page_title="RAG Local", page_icon="🔐")
 st.title("RAG 100% Local 🔐")
 st.write("Nenhum dado sai da sua máquina.")
 
-st.markdown(" [Baixe aqui o PDF de exemplo para testar](https://example.com/exemplo.pdf)")
+st.markdown(" [Baixe aqui o PDF de exemplo para testar](https://github.com/Abeners2/challenge-alura-agente/blob/main/Pol%C3%ADtica%20Interna%20de%20Trabalho%20e%20Benef%C3%ADcios%20-%20InovaTech.pdf)")
 
 # 1. Upload do Arquivo
 uploaded_file = st.file_uploader("Faça upload de um PDF", type="pdf")

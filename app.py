@@ -22,6 +22,8 @@ st.set_page_config(page_title="RAG Local", page_icon="🔐")
 st.title("RAG 100% Local 🔐")
 st.write("Nenhum dado sai da sua máquina.")
 
+st.markdown(" [Baixe aqui o PDF de exemplo para testar](https://example.com/exemplo.pdf)")
+
 # 1. Upload do Arquivo
 uploaded_file = st.file_uploader("Faça upload de um PDF", type="pdf")
 

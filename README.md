@@ -34,7 +34,7 @@ A aplicação utiliza a arquitetura RAG (Retrieval-Augmented Generation) com as 
 
 \* \*\*Banco de Dados Vetorial:\*\* ChromaDB
 
-\* \*\*LLM (Large Language Model):\*\* Ollama (Modelo `qwen2.5:3b`)
+\* \*\*LLM (Large Language Model):\*\* Ollama (Modelo `qwen2.5:0.5b`)
 
 
 
@@ -48,7 +48,7 @@ A aplicação utiliza a arquitetura RAG (Retrieval-Augmented Generation) com as 
 
 2\. No terminal, baixar o modelo utilizado na aplicação:
 
-&#x20;  `ollama pull qwen2.5:3b`
+&#x20;  `ollama pull qwen2.5:0.5b`
 
 
 
